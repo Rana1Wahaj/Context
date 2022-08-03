@@ -1,0 +1,17 @@
+.list {
+  background-color: #0960f5;
+  padding: 5px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  align-items: center;
+  margin-right: 600px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
